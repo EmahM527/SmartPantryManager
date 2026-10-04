@@ -2,6 +2,13 @@
 
 An Android application, written in Java, that helps users reduce food waste by tracking the ingredients they already have at home and suggesting recipes they can cook **using strictly those ingredients** — no shopping trip required.
 
+## Demo Video
+
+The 5–7 minute demonstration video is included in this repository: [SmartPantryApp_VIDEO.mp4]
+https://github.com/EmahM527/SmartPantryManager/blob/main/SmartPantryApp_VIDEO.mp4
+If the file doesn't preview inline due to its size, click **"View raw"** or use the download button on that page to watch it locally.
+
+
 ## Table of Contents
 
 - [About](#about)
